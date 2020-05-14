@@ -1,24 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState, } from 'react';
 import './App.css';
+import data from './data';
+
+
 
 function App() {
+  const [tiles, setTile] = useState(data);
+
+  const handleClick = (index) => {
+    if (!tiles[index].number) return;
+    const updatedTile = tiles.map((tile, i) =>
+      i === index ? { ...tile, number: --tile.number, } : tile)
+    setTile(updatedTile)
+  }
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {tiles.map(({ pic, number, }, i) => (
+        <div className={`tile ${!!number ? '' : 'blocked'}`}>
+          <div className="tile__content" onClick={() => handleClick(i)}>
+            <div className="tile__pic">
+              <img src={pic} alt="alt" />
+            </div>
+            <div>{number}</div>
+          </div>
+        </div>
+      ))}
     </div>
   );
 }

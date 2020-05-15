@@ -6,7 +6,7 @@ import data from './data';
 
 function App() {
   const [tiles, setTile] = useState(data);
-  const [history, setHistory] = useState([]);
+  const [history, setHistory] = useState([3]);
 
   const handleClick = (index) => {
     if (!tiles[index].number) return;
@@ -46,6 +46,7 @@ function App() {
         <div className="list">
           {history.map((item, index) => (
             <div key={index} className="list___item">
+              {history.length - index}
               <img src={data[item].pic} alt="pic" />
             </div>
           ))}

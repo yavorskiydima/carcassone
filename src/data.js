@@ -27,7 +27,7 @@ export default [
     { pic: A, number: 2, },
     { pic: B, number: 4, },
     { pic: C, number: 1, },
-    { pic: D, number: 4, },
+    { pic: D, number: 3, },
     { pic: E, number: 5, },
     { pic: F, number: 2, },
     { pic: G, number: 1, },

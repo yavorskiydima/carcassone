@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/carcassone/static/css/main.2bd86e9f.chunk.css",
+    "main.css": "/carcassone/static/css/main.059dee82.chunk.css",
     "main.js": "/carcassone/static/js/main.ffed630d.chunk.js",
     "main.js.map": "/carcassone/static/js/main.ffed630d.chunk.js.map",
     "runtime-main.js": "/carcassone/static/js/runtime-main.85957eaa.js",
@@ -8,9 +8,9 @@
     "static/js/2.c400bae0.chunk.js": "/carcassone/static/js/2.c400bae0.chunk.js",
     "static/js/2.c400bae0.chunk.js.map": "/carcassone/static/js/2.c400bae0.chunk.js.map",
     "index.html": "/carcassone/index.html",
-    "precache-manifest.78a50179a88ea10239ea394ec2b209a6.js": "/carcassone/precache-manifest.78a50179a88ea10239ea394ec2b209a6.js",
+    "precache-manifest.5a7119b7645938fc532571dd2cd2626e.js": "/carcassone/precache-manifest.5a7119b7645938fc532571dd2cd2626e.js",
     "service-worker.js": "/carcassone/service-worker.js",
-    "static/css/main.2bd86e9f.chunk.css.map": "/carcassone/static/css/main.2bd86e9f.chunk.css.map",
+    "static/css/main.059dee82.chunk.css.map": "/carcassone/static/css/main.059dee82.chunk.css.map",
     "static/js/2.c400bae0.chunk.js.LICENSE.txt": "/carcassone/static/js/2.c400bae0.chunk.js.LICENSE.txt",
     "static/media/A.png": "/carcassone/static/media/A.24f7e06c.png",
     "static/media/B.png": "/carcassone/static/media/B.ced16071.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.85957eaa.js",
     "static/js/2.c400bae0.chunk.js",
-    "static/css/main.2bd86e9f.chunk.css",
+    "static/css/main.059dee82.chunk.css",
     "static/js/main.ffed630d.chunk.js"
   ]
 }

@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f694f4d518256273e5ff8392b27cff53",
+    "revision": "d40c9d6f3b4c6da98df3b876a2016500",
     "url": "/carcassone/index.html"
   },
   {
-    "revision": "9c31d39ef9b8d0bc4980",
-    "url": "/carcassone/static/css/main.059dee82.chunk.css"
+    "revision": "83e9f05b9164355b34bc",
+    "url": "/carcassone/static/css/main.7d898017.chunk.css"
   },
   {
-    "revision": "a4b11482896e257e3a6c",
-    "url": "/carcassone/static/js/2.c400bae0.chunk.js"
+    "revision": "a969f9ad1264c97c5a5a",
+    "url": "/carcassone/static/js/2.a504f4c3.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/carcassone/static/js/2.c400bae0.chunk.js.LICENSE.txt"
+    "url": "/carcassone/static/js/2.a504f4c3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9c31d39ef9b8d0bc4980",
-    "url": "/carcassone/static/js/main.ffed630d.chunk.js"
+    "revision": "83e9f05b9164355b34bc",
+    "url": "/carcassone/static/js/main.e4eed272.chunk.js"
   },
   {
     "revision": "5709758a2d460371d20b",

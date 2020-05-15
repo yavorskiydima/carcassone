@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/carcassone/static/css/main.7d898017.chunk.css",
-    "main.js": "/carcassone/static/js/main.e4eed272.chunk.js",
-    "main.js.map": "/carcassone/static/js/main.e4eed272.chunk.js.map",
+    "main.css": "/carcassone/static/css/main.efeaa8cb.chunk.css",
+    "main.js": "/carcassone/static/js/main.913e735b.chunk.js",
+    "main.js.map": "/carcassone/static/js/main.913e735b.chunk.js.map",
     "runtime-main.js": "/carcassone/static/js/runtime-main.85957eaa.js",
     "runtime-main.js.map": "/carcassone/static/js/runtime-main.85957eaa.js.map",
     "static/js/2.a504f4c3.chunk.js": "/carcassone/static/js/2.a504f4c3.chunk.js",
     "static/js/2.a504f4c3.chunk.js.map": "/carcassone/static/js/2.a504f4c3.chunk.js.map",
     "index.html": "/carcassone/index.html",
-    "precache-manifest.3824785be28699a58c4d3ea00be04bd4.js": "/carcassone/precache-manifest.3824785be28699a58c4d3ea00be04bd4.js",
+    "precache-manifest.22509723664d140688a843a74c50ca6b.js": "/carcassone/precache-manifest.22509723664d140688a843a74c50ca6b.js",
     "service-worker.js": "/carcassone/service-worker.js",
-    "static/css/main.7d898017.chunk.css.map": "/carcassone/static/css/main.7d898017.chunk.css.map",
+    "static/css/main.efeaa8cb.chunk.css.map": "/carcassone/static/css/main.efeaa8cb.chunk.css.map",
     "static/js/2.a504f4c3.chunk.js.LICENSE.txt": "/carcassone/static/js/2.a504f4c3.chunk.js.LICENSE.txt",
     "static/media/A.png": "/carcassone/static/media/A.24f7e06c.png",
     "static/media/B.png": "/carcassone/static/media/B.ced16071.png",
@@ -40,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.85957eaa.js",
     "static/js/2.a504f4c3.chunk.js",
-    "static/css/main.7d898017.chunk.css",
-    "static/js/main.e4eed272.chunk.js"
+    "static/css/main.efeaa8cb.chunk.css",
+    "static/js/main.913e735b.chunk.js"
   ]
 }
